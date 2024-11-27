@@ -1,4 +1,4 @@
-## Frontend Interview Preparation
+## Javascript - Equal - Clone - Merge - Flatten
 
 1. [Deep flatten an object](deep-flatten-object.md)
 2. [Deep flatten an array](deep-flatten-array.md)

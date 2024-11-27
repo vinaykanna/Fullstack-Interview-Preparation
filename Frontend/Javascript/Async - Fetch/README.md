@@ -1,4 +1,4 @@
-## Frontend Interview Preparation
+## Javascript - Async - Fetch
 
 1. [Cancel Fetch Request](cancel-fetch-request.md)
 2. [Fetch request and response interceptors](fetch-interceptors.md)

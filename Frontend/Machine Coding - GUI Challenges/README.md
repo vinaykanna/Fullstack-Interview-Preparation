@@ -1,4 +1,4 @@
-## Frontend Interview Preparation
+## Machine Coding - GUI Challenges
 
 ### Easy
 1. [Counter](counter.html)

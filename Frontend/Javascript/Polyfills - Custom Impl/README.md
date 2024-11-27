@@ -1,4 +1,4 @@
-## Frontend Interview Preparation
+## Javascript - Polyfills
 
 1. [Polyfill for Array.forEach()](forEach-polyfill.md)
 2. [Polyfill for Array.map()](map-polyfill.md)

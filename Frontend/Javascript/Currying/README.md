@@ -1,4 +1,4 @@
-## Frontend Interview Preparation
+## Javascript - Currying
 
 1. [Currying - I](currying-1.md)
 2. [Currying - I](currying-2.md)
