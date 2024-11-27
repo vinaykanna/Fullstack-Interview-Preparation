@@ -1,6 +1,6 @@
 ## CSS Interview Questions
 
-1. [What's the difference between a `relative`, `fixed`, `absolute`, `sticky` and `static`-ally positioned element?](#whats-the-difference-between-a-relative-fixed-absolute-sticky-and-static-ally-positioned-element-positioning)
+1. [What's the difference between a `relative`, `fixed`, `absolute`, `sticky` and `static`-ally positioned element?](#whats-the-difference-between-a-relative-fixed-absolute-sticky-and-static-ally-positioned-element)
 
 
 
